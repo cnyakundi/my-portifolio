@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: white;
     background-image: url(./images/plain.jpg);
 }
 
@@ -36,4 +36,8 @@ h1 {
     width: 320px;
     height: 320px;
     margin: 0 auto;
+}
+
+.cn {
+    color: black;
 }
