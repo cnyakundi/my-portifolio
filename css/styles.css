@@ -1,13 +1,13 @@
 body {
-    color: auto;
+    color: black;
+    background-image: url(./images/plain.jpg);
 }
 
 img {
     border: 1px solid #ddd;
-    border-radius: 10px;
+    border-radius: 4px;
     padding: 5px;
     width: 150px;
-    float: left;
 }
 
 @import url("https://fonts.googleapis.com/css?family=Bowlby+One+SC");
@@ -28,4 +28,12 @@ p {
 
 h1 {
     background: green;
+}
+
+.lists {
+    text-align: center;
+    font-family: "Bowlby One SC", cursive;
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
 }
